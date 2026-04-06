@@ -28,13 +28,13 @@ For Download You need to click in the botton green that say <> Code and Click Do
     > This Function you can see all the thing inside the List.
   * FUnction Search
     > The Funtionality of this Function is Search  using ID,Title,Status
-  *Function Update
+  * Function Update
     > This Function used if you want to update/change some information for exapmle: Title,Status,Etc...
     > You can't Update or change the ID.
-  *Function Deleate
+  * Function Deleate
     > If you want to delete use this Function.
-  *Function Save File
+  * Function Save File
     > You can Save the program information in a File
-  *Function Load
+  * Function Load
     > You can't Loade informaton  earlie saved
     
